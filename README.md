@@ -7,4 +7,4 @@ The code itself is based on an adaptation from the paper titled "Pressure Space:
 This tool is best for regional or basin-scale evaluation to screen the most suitable CO2 storage site based on both subsurface and surface element relevant for permanent geological carbon sequestration. For this particular example, the work works based in a tectonically relaxed, offshore setting. Example from Outer Continental Shelf, Northern Gulf of Mexico basin is as follow:
 ![Example_CO2_Storage_Isocapacity_Efficiency](https://github.com/ihfaruqi/Pressure-Based-CO2-Storage-Resource/assets/173105583/c44241be-7080-42a1-9145-22a45c1ad8e7)
 
-Manuscript for this paper is currently being prepared.
+1D Model will be available soon. Manuscript for this paper is currently being prepared.
